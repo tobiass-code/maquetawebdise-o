@@ -1,0 +1,65 @@
+{
+ "velocidad": {
+  "home-escritorio": {
+   "load_ms": 4474,
+   "ttfb": 504,
+   "dcl": 2436,
+   "pedidos": 193,
+   "mb_declarados": 10,
+   "errores": []
+  },
+  "home-celular": {
+   "load_ms": 3443,
+   "ttfb": 190,
+   "dcl": 1710,
+   "pedidos": 190,
+   "mb_declarados": 9.8,
+   "errores": []
+  },
+  "paquete-celular": {
+   "load_ms": 2673,
+   "ttfb": 228,
+   "dcl": 1623,
+   "pedidos": 113,
+   "mb_declarados": 3.7,
+   "errores": [
+    "requestStorageAccess: Permission denied."
+   ]
+  },
+  "pais-celular": {
+   "load_ms": 3244,
+   "ttfb": 1073,
+   "dcl": 2531,
+   "pedidos": 102,
+   "mb_declarados": 3.1,
+   "errores": []
+  }
+ },
+ "buscador": {
+  "destinos": [],
+  "meses": [
+   "Enero",
+   "Febrero",
+   "Marzo",
+   "Abril",
+   "Mayo",
+   "Junio",
+   "Julio",
+   "Agosto",
+   "Septiembre",
+   "Octubre",
+   "Noviembre",
+   "Diciembre"
+  ],
+  "resultado_url": "/"
+ },
+ "consultar": {
+  "url": "/paquete/2252/eurotrip_tu_primer_viaje_a_europa_-_salida_en_grupos.html",
+  "campos": []
+ },
+ "hotel": {
+  "links": 4,
+  "url": "/paquete/146/paquete_combinado_a_rio_de_janeiro__buzios.html",
+  "texto": "Arambaré Buzios\n\nEstrellas: \n\n Destino: Búzios\n\n Dirección: Rua Colinas de Geriba 18, Búzios 28950-000 , a 3,7 km de Centro\n\nEn Búzios (Playa de Geribá). Te sentirás como en tu propia casa en cualquiera de las 20 habitaciones con aire acondicionado, minibar y Smart TV. Las habitaciones disponen de balcón. La conexión wifi gratis te mantendrá en contacto con los tuyos. Además, podrás disfrutar de canales digitales. El cuarto de baño está provisto de ducha y secadores de pelo.\n\nCon una piscina al aire libre y muchas otras instalaciones recreativas a tu disposición, no te quedará ni un minuto libre. Tienes también una terraza y jardín donde sentarte a contemplar el paisaje. Encontrarás además conexión a Internet wifi gratis, servicios de conserjería y una zona recreativa o sala de juegos.\n\nEste hotel cuenta con una cafetería para tomar algo rápido, pero también puedes aprovechar su servicio de habitaciones con horario limitado. Pon la guinda en el pastel a un día fantástico con una bebida en el bar o lounge o en el bar junto a la piscina. Se ofrece un desayuno continental gratuito todos los días de 09:00 a 10:00.\n\nTendrás un servicio de recepción las 24 horas y una caja fuerte en recepción a tu disposición. Pagando un pequeño suplemento podrás aprovechar prestaciones como servicio de transporte al aeropuerto (ida y vuelta) de pago y aparcamiento sin asistencia gratuito.\n\n×\nDestinos\nArgentina en 12 cuotas sin interés\nPlayas\nSalidas Grupales\nShop\nQuiénes somos\nSucursales\nContacto\n"
+ }
+}
