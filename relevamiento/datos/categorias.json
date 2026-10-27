@@ -1,0 +1,322 @@
+[
+ {
+  "id": 2,
+  "nombre": "Salidas Desde - Buenos Aires",
+  "url": "/categoria/salidas_desde_buenos_aires-2",
+  "estado": 404,
+  "paquetes_en_pagina": 0,
+  "paquetes_en_api": 91,
+  "banner": false,
+  "title": ""
+ },
+ {
+  "id": 5,
+  "nombre": "Salidas Desde - Córdoba",
+  "url": "/categoria/salidas_desde_cordoba-5",
+  "estado": 404,
+  "paquetes_en_pagina": 0,
+  "paquetes_en_api": 11,
+  "banner": false,
+  "title": ""
+ },
+ {
+  "id": 7,
+  "nombre": "Salidas Desde - Mendoza",
+  "url": "/categoria/salidas_desde_mendoza-7",
+  "estado": 404,
+  "paquetes_en_pagina": 0,
+  "paquetes_en_api": 3,
+  "banner": false,
+  "title": ""
+ },
+ {
+  "id": 9,
+  "nombre": "Salidas Desde - Rosario",
+  "url": "/categoria/salidas_desde_rosario-9",
+  "estado": 404,
+  "paquetes_en_pagina": 0,
+  "paquetes_en_api": 3,
+  "banner": false,
+  "title": ""
+ },
+ {
+  "id": 10,
+  "nombre": "Salidas Desde - Salta",
+  "url": "/categoria/salidas_desde_salta-10",
+  "estado": 404,
+  "paquetes_en_pagina": 0,
+  "paquetes_en_api": 2,
+  "banner": false,
+  "title": ""
+ },
+ {
+  "id": 24,
+  "nombre": "Argentina en 12 cuotas sin interés",
+  "url": "/categoria/argentina_en_12_cuotas_sin_interes-24",
+  "estado": 200,
+  "paquetes_en_pagina": 15,
+  "paquetes_en_api": 16,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 44,
+  "nombre": "Hot Sale 2026",
+  "url": "/categoria/hot_sale_2026-44",
+  "estado": 200,
+  "paquetes_en_pagina": 58,
+  "paquetes_en_api": 59,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 111,
+  "nombre": "Travel Sale",
+  "url": "/categoria/travel_sale-111",
+  "estado": 200,
+  "paquetes_en_pagina": 88,
+  "paquetes_en_api": 87,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 122,
+  "nombre": "Cybermonday",
+  "url": "/categoria/cybermonday-122",
+  "estado": 404,
+  "paquetes_en_pagina": 0,
+  "paquetes_en_api": 26,
+  "banner": false,
+  "title": ""
+ },
+ {
+  "id": 123,
+  "nombre": "Semana Europea y Exóticos",
+  "url": "/categoria/semana_europea_y_exoticos-123",
+  "estado": 200,
+  "paquetes_en_pagina": 33,
+  "paquetes_en_api": 31,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 124,
+  "nombre": "Volá de arriba",
+  "url": "/categoria/vola_de_arriba-124",
+  "estado": 200,
+  "paquetes_en_pagina": 81,
+  "paquetes_en_api": 79,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 126,
+  "nombre": "Playas",
+  "url": "/categoria/playas-126",
+  "estado": 200,
+  "paquetes_en_pagina": 37,
+  "paquetes_en_api": 35,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 127,
+  "nombre": "Semana Brasilera",
+  "url": "/categoria/semana_brasilera-127",
+  "estado": 200,
+  "paquetes_en_pagina": 15,
+  "paquetes_en_api": 13,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 128,
+  "nombre": "Black Friday",
+  "url": "/categoria/black_friday-128",
+  "estado": 200,
+  "paquetes_en_pagina": 21,
+  "paquetes_en_api": 21,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 150,
+  "nombre": "Semana Caribe",
+  "url": "/categoria/semana_caribe-150",
+  "estado": 200,
+  "paquetes_en_pagina": 12,
+  "paquetes_en_api": 10,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 151,
+  "nombre": "Salidas Grupales Europa, Exóticos y más",
+  "url": "/categoria/salidas_grupales_europa_exoticos_y_mas-151",
+  "estado": 200,
+  "paquetes_en_pagina": 35,
+  "paquetes_en_api": 33,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 152,
+  "nombre": "Cupón Navideño",
+  "url": "/categoria/cupon_navideno-152",
+  "estado": 200,
+  "paquetes_en_pagina": 24,
+  "paquetes_en_api": 23,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 155,
+  "nombre": "Semana Playera",
+  "url": "/categoria/semana_playera-155",
+  "estado": 200,
+  "paquetes_en_pagina": 40,
+  "paquetes_en_api": 32,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 156,
+  "nombre": "Playas del Caribe y Centroamérica",
+  "url": "/categoria/playas_del_caribe_y_centroamerica-156",
+  "estado": 200,
+  "paquetes_en_pagina": 22,
+  "paquetes_en_api": 19,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 157,
+  "nombre": "Brasil y Sudamérica",
+  "url": "/categoria/brasil_y_sudamerica-157",
+  "estado": 200,
+  "paquetes_en_pagina": 20,
+  "paquetes_en_api": 20,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 158,
+  "nombre": "Vacaciones 2027 en Cuotas",
+  "url": "/categoria/vacaciones_2027_en_cuotas-158",
+  "estado": 200,
+  "paquetes_en_pagina": 0,
+  "paquetes_en_api": 7,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 159,
+  "nombre": "Salidas Grupales",
+  "url": "/categoria/salidas_grupales-159",
+  "estado": 200,
+  "paquetes_en_pagina": 42,
+  "paquetes_en_api": 40,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 160,
+  "nombre": "Hot Days",
+  "url": "/categoria/hot_days-160",
+  "estado": 200,
+  "paquetes_en_pagina": 44,
+  "paquetes_en_api": 44,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 161,
+  "nombre": "Cupón de descuento",
+  "url": "/categoria/cupon_de_descuento-161",
+  "estado": 200,
+  "paquetes_en_pagina": 48,
+  "paquetes_en_api": 46,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 163,
+  "nombre": "Verano 2027",
+  "url": "/categoria/verano_2027-163",
+  "estado": 200,
+  "paquetes_en_pagina": 11,
+  "paquetes_en_api": 10,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 170,
+  "nombre": "Viajes culturales",
+  "url": "/categoria/viajes_culturales-170",
+  "estado": 200,
+  "paquetes_en_pagina": 31,
+  "paquetes_en_api": 28,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 171,
+  "nombre": "Experiencias deportivas",
+  "url": "/categoria/experiencias_deportivas-171",
+  "estado": 200,
+  "paquetes_en_pagina": 5,
+  "paquetes_en_api": 3,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 172,
+  "nombre": "Playas en familia",
+  "url": "/categoria/playas_en_familia-172",
+  "estado": 200,
+  "paquetes_en_pagina": 7,
+  "paquetes_en_api": 7,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 173,
+  "nombre": "Eventos musicales",
+  "url": "/categoria/eventos_musicales-173",
+  "estado": 200,
+  "paquetes_en_pagina": 9,
+  "paquetes_en_api": 11,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 174,
+  "nombre": "Viajes de aventura",
+  "url": "/categoria/viajes_de_aventura-174",
+  "estado": 200,
+  "paquetes_en_pagina": 4,
+  "paquetes_en_api": 4,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 175,
+  "nombre": "Viajes de introspección",
+  "url": "/categoria/viajes_de_introspeccion-175",
+  "estado": 200,
+  "paquetes_en_pagina": 10,
+  "paquetes_en_api": 10,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ },
+ {
+  "id": 176,
+  "nombre": "Experiencias de autor",
+  "url": "/categoria/experiencias_de_autor-176",
+  "estado": 200,
+  "paquetes_en_pagina": 13,
+  "paquetes_en_api": 11,
+  "banner": true,
+  "title": "deturista.com - Viajes al Mejor Precio, Ofertas Exclusivas"
+ }
+]

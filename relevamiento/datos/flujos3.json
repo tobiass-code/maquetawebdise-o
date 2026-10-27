@@ -1,0 +1,1012 @@
+{
+ "estilo": {
+  "/": {
+   "fuentes": [
+    [
+     "Open Sans 600",
+     636
+    ],
+    [
+     "Open Sans 700",
+     389
+    ],
+    [
+     "Open Sans 400",
+     33
+    ],
+    [
+     "Arial 400",
+     1
+    ],
+    [
+     "OpenSans 700",
+     1
+    ]
+   ],
+   "colores": [
+    [
+     "rgb(51, 51, 51)",
+     411
+    ],
+    [
+     "rgb(77, 29, 131)",
+     239
+    ],
+    [
+     "rgb(255, 255, 255)",
+     163
+    ],
+    [
+     "rgb(64, 14, 115)",
+     144
+    ],
+    [
+     "rgb(103, 114, 138)",
+     74
+    ],
+    [
+     "rgba(0, 0, 0, 0)",
+     10
+    ],
+    [
+     "rgb(222, 34, 143)",
+     6
+    ],
+    [
+     "rgb(38, 38, 38)",
+     5
+    ],
+    [
+     "rgb(237, 237, 237)",
+     3
+    ],
+    [
+     "rgb(59, 51, 67)",
+     3
+    ],
+    [
+     "rgb(0, 0, 0)",
+     2
+    ]
+   ],
+   "fondos": [
+    [
+     "rgba(0, 0, 0, 0.6)",
+     284
+    ],
+    [
+     "rgb(255, 255, 255)",
+     168
+    ],
+    [
+     "rgb(243, 240, 250)",
+     131
+    ],
+    [
+     "rgba(255, 255, 255, 0.8)",
+     10
+    ],
+    [
+     "rgba(255, 255, 255, 0.07)",
+     7
+    ],
+    [
+     "rgb(240, 240, 240)",
+     6
+    ],
+    [
+     "rgb(64, 14, 115)",
+     3
+    ],
+    [
+     "rgba(0, 0, 0, 0.15)",
+     2
+    ],
+    [
+     "rgb(222, 34, 143)",
+     2
+    ],
+    [
+     "rgb(11, 11, 11)",
+     1
+    ],
+    [
+     "rgb(243, 239, 255)",
+     1
+    ],
+    [
+     "rgb(30, 30, 31)",
+     1
+    ]
+   ],
+   "tamanos": [
+    [
+     "12px",
+     571
+    ],
+    [
+     "20px",
+     136
+    ],
+    [
+     "16px",
+     102
+    ],
+    [
+     "24px",
+     97
+    ],
+    [
+     "23px",
+     44
+    ],
+    [
+     "15px",
+     41
+    ],
+    [
+     "11px",
+     35
+    ],
+    [
+     "13px",
+     11
+    ],
+    [
+     "0px",
+     10
+    ],
+    [
+     "14px",
+     7
+    ],
+    [
+     "28px",
+     1
+    ],
+    [
+     "19.5px",
+     1
+    ],
+    [
+     "18px",
+     1
+    ],
+    [
+     "32px",
+     1
+    ]
+   ],
+   "radios": [
+    [
+     "0px 5px 5px 0px",
+     144
+    ],
+    [
+     "0px 15px 15px 0px",
+     140
+    ],
+    [
+     "999px",
+     131
+    ],
+    [
+     "4px",
+     18
+    ],
+    [
+     "50%",
+     4
+    ],
+    [
+     "8px",
+     3
+    ],
+    [
+     "6px",
+     2
+    ],
+    [
+     "0px 0px 12px 12px",
+     1
+    ]
+   ],
+   "iconos": [
+    [
+     "fa-plane",
+     141
+    ],
+    [
+     "fa-suitcase",
+     140
+    ],
+    [
+     "fa-hotel",
+     135
+    ],
+    [
+     "fa-bus",
+     134
+    ],
+    [
+     "fa-coffee",
+     90
+    ],
+    [
+     "fa-group",
+     62
+    ],
+    [
+     "fa-medkit",
+     57
+    ],
+    [
+     "fa-utensils",
+     34
+    ],
+    [
+     "fa-bell",
+     6
+    ],
+    [
+     "fa-ship",
+     2
+    ],
+    [
+     "fa-phone-square",
+     1
+    ],
+    [
+     "fa-globe",
+     1
+    ],
+    [
+     "fa-calendar",
+     1
+    ],
+    [
+     "fa-search",
+     1
+    ],
+    [
+     "fa-envelope",
+     1
+    ],
+    [
+     "fa-facebook",
+     1
+    ],
+    [
+     "fa-instagram",
+     1
+    ],
+    [
+     "fa-map",
+     1
+    ],
+    [
+     "fa-whatsapp",
+     1
+    ]
+   ],
+   "botones": [
+    [
+     "rgba(255, 255, 255, 0.07)|rgb(255, 255, 255)|4px|13px",
+     7
+    ],
+    [
+     "rgba(0, 0, 0, 0)|rgb(255, 255, 255)|0px|28px",
+     1
+    ],
+    [
+     "rgb(64, 14, 115)|rgb(255, 255, 255)|6px|15px",
+     1
+    ],
+    [
+     "rgb(222, 34, 143)|rgb(255, 255, 255)|4px|13px",
+     1
+    ]
+   ]
+  },
+  "/paquete/2252/eurotrip_tu_primer_viaje_a_europa_-_salida_en_grupos.html": {
+   "fuentes": [
+    [
+     "Open Sans 600",
+     189
+    ],
+    [
+     "Open Sans 400",
+     45
+    ],
+    [
+     "Open Sans 700",
+     33
+    ],
+    [
+     "Open Sans 800",
+     8
+    ],
+    [
+     "OpenSans 700",
+     1
+    ]
+   ],
+   "colores": [
+    [
+     "rgb(103, 114, 138)",
+     74
+    ],
+    [
+     "rgb(51, 51, 51)",
+     53
+    ],
+    [
+     "rgb(255, 255, 255)",
+     46
+    ],
+    [
+     "rgb(77, 29, 131)",
+     42
+    ],
+    [
+     "rgb(222, 34, 143)",
+     33
+    ],
+    [
+     "rgb(64, 14, 115)",
+     7
+    ],
+    [
+     "rgb(85, 85, 85)",
+     7
+    ],
+    [
+     "rgb(102, 102, 102)",
+     5
+    ],
+    [
+     "rgb(237, 237, 237)",
+     3
+    ],
+    [
+     "rgb(59, 51, 67)",
+     3
+    ],
+    [
+     "rgb(0, 0, 0)",
+     2
+    ],
+    [
+     "rgb(119, 119, 119)",
+     1
+    ]
+   ],
+   "fondos": [
+    [
+     "rgb(255, 255, 255)",
+     32
+    ],
+    [
+     "rgb(222, 34, 143)",
+     18
+    ],
+    [
+     "rgb(64, 14, 115)",
+     17
+    ],
+    [
+     "rgb(243, 240, 250)",
+     8
+    ],
+    [
+     "rgb(239, 234, 251)",
+     7
+    ],
+    [
+     "rgba(255, 255, 255, 0.07)",
+     7
+    ],
+    [
+     "rgb(240, 240, 240)",
+     6
+    ],
+    [
+     "rgb(255, 240, 247)",
+     5
+    ],
+    [
+     "rgb(250, 250, 250)",
+     1
+    ],
+    [
+     "rgb(250, 247, 251)",
+     1
+    ],
+    [
+     "rgb(238, 238, 238)",
+     1
+    ],
+    [
+     "rgb(30, 30, 31)",
+     1
+    ]
+   ],
+   "tamanos": [
+    [
+     "12px",
+     86
+    ],
+    [
+     "14px",
+     54
+    ],
+    [
+     "13px",
+     46
+    ],
+    [
+     "16px",
+     14
+    ],
+    [
+     "15px",
+     13
+    ],
+    [
+     "10.5px",
+     12
+    ],
+    [
+     "20px",
+     9
+    ],
+    [
+     "18px",
+     8
+    ],
+    [
+     "23px",
+     8
+    ],
+    [
+     "11px",
+     8
+    ],
+    [
+     "22px",
+     5
+    ],
+    [
+     "19px",
+     4
+    ],
+    [
+     "30px",
+     4
+    ],
+    [
+     "19.5px",
+     1
+    ]
+   ],
+   "radios": [
+    [
+     "4px",
+     56
+    ],
+    [
+     "10px",
+     12
+    ],
+    [
+     "0px 4px 4px 0px",
+     12
+    ],
+    [
+     "0px 0px 10px 10px",
+     12
+    ],
+    [
+     "999px",
+     9
+    ],
+    [
+     "50%",
+     5
+    ],
+    [
+     "8px",
+     4
+    ],
+    [
+     "6px",
+     2
+    ]
+   ],
+   "iconos": [
+    [
+     "fa-sm",
+     14
+    ],
+    [
+     "fa-plane",
+     13
+    ],
+    [
+     "fa-plane-departure",
+     7
+    ],
+    [
+     "fa-calendar",
+     7
+    ],
+    [
+     "fa-exchange-alt",
+     7
+    ],
+    [
+     "fa-credit-card",
+     7
+    ],
+    [
+     "fa-plus",
+     7
+    ],
+    [
+     "fa-refresh",
+     5
+    ],
+    [
+     "fa-suitcase",
+     5
+    ],
+    [
+     "fa-arrow-right",
+     5
+    ],
+    [
+     "fa-sort",
+     2
+    ],
+    [
+     "fa-phone-square",
+     1
+    ],
+    [
+     "fa-hotel",
+     1
+    ],
+    [
+     "fa-coffee",
+     1
+    ],
+    [
+     "fa-bus",
+     1
+    ],
+    [
+     "fa-medkit",
+     1
+    ],
+    [
+     "fa-group",
+     1
+    ],
+    [
+     "fa-money",
+     1
+    ],
+    [
+     "fa-caret-down",
+     1
+    ],
+    [
+     "fa-tag",
+     1
+    ],
+    [
+     "fa-magic",
+     1
+    ],
+    [
+     "fa-envelope",
+     1
+    ],
+    [
+     "fa-facebook",
+     1
+    ],
+    [
+     "fa-instagram",
+     1
+    ],
+    [
+     "fa-map",
+     1
+    ]
+   ],
+   "botones": [
+    [
+     "rgba(255, 255, 255, 0.07)|rgb(255, 255, 255)|4px|13px",
+     7
+    ],
+    [
+     "rgb(222, 34, 143)|rgb(255, 255, 255)|4px|14px",
+     1
+    ],
+    [
+     "rgba(0, 0, 0, 0)|rgb(222, 34, 143)|0px|14px",
+     1
+    ],
+    [
+     "rgb(222, 34, 143)|rgb(255, 255, 255)|4px|13px",
+     1
+    ]
+   ]
+  },
+  "/consulta": {
+   "fuentes": [
+    [
+     "Open Sans 600",
+     81
+    ],
+    [
+     "Open Sans 700",
+     47
+    ],
+    [
+     "Open Sans 400",
+     35
+    ],
+    [
+     "OpenSans 700",
+     1
+    ]
+   ],
+   "colores": [
+    [
+     "rgb(103, 114, 138)",
+     73
+    ],
+    [
+     "rgb(64, 14, 115)",
+     26
+    ],
+    [
+     "rgb(255, 255, 255)",
+     22
+    ],
+    [
+     "rgb(92, 85, 103)",
+     8
+    ],
+    [
+     "rgb(222, 34, 143)",
+     7
+    ],
+    [
+     "rgb(36, 21, 50)",
+     7
+    ],
+    [
+     "rgb(61, 53, 72)",
+     6
+    ],
+    [
+     "rgb(237, 237, 237)",
+     3
+    ],
+    [
+     "rgb(59, 51, 67)",
+     3
+    ],
+    [
+     "rgb(0, 0, 0)",
+     2
+    ],
+    [
+     "rgb(102, 102, 102)",
+     1
+    ],
+    [
+     "rgb(51, 51, 51)",
+     1
+    ]
+   ],
+   "fondos": [
+    [
+     "rgb(255, 255, 255)",
+     32
+    ],
+    [
+     "rgb(247, 244, 251)",
+     10
+    ],
+    [
+     "rgb(236, 231, 242)",
+     7
+    ],
+    [
+     "rgba(255, 255, 255, 0.07)",
+     7
+    ],
+    [
+     "rgb(222, 34, 143)",
+     6
+    ],
+    [
+     "rgb(64, 14, 115)",
+     3
+    ],
+    [
+     "rgb(243, 237, 249)",
+     2
+    ],
+    [
+     "rgba(255, 255, 255, 0.14)",
+     2
+    ],
+    [
+     "rgb(240, 240, 240)",
+     1
+    ],
+    [
+     "rgb(245, 247, 251)",
+     1
+    ],
+    [
+     "rgb(248, 250, 252)",
+     1
+    ],
+    [
+     "rgb(238, 248, 244)",
+     1
+    ]
+   ],
+   "tamanos": [
+    [
+     "12px",
+     75
+    ],
+    [
+     "13px",
+     42
+    ],
+    [
+     "14px",
+     20
+    ],
+    [
+     "16px",
+     11
+    ],
+    [
+     "15px",
+     5
+    ],
+    [
+     "11px",
+     3
+    ],
+    [
+     "19.5px",
+     1
+    ],
+    [
+     "22px",
+     1
+    ],
+    [
+     "11.9px",
+     1
+    ],
+    [
+     "28px",
+     1
+    ],
+    [
+     "18px",
+     1
+    ],
+    [
+     "32px",
+     1
+    ],
+    [
+     "21px",
+     1
+    ],
+    [
+     "26px",
+     1
+    ]
+   ],
+   "radios": [
+    [
+     "4px",
+     35
+    ],
+    [
+     "8px",
+     15
+    ],
+    [
+     "6px",
+     9
+    ],
+    [
+     "50%",
+     4
+    ],
+    [
+     "0px 4px 4px 0px",
+     3
+    ],
+    [
+     "4px 0px 0px 4px",
+     2
+    ],
+    [
+     "1px",
+     2
+    ],
+    [
+     "2px",
+     1
+    ]
+   ],
+   "iconos": [
+    [
+     "fa-facebook",
+     2
+    ],
+    [
+     "fa-instagram",
+     2
+    ],
+    [
+     "fa-map",
+     2
+    ],
+    [
+     "fa-phone-square",
+     1
+    ],
+    [
+     "fa-clock-o",
+     1
+    ],
+    [
+     "fa-phone",
+     1
+    ],
+    [
+     "fa-user",
+     1
+    ],
+    [
+     "fa-envelope-o",
+     1
+    ],
+    [
+     "fa-envelope",
+     1
+    ],
+    [
+     "fa-whatsapp",
+     1
+    ]
+   ],
+   "botones": [
+    [
+     "rgb(247, 244, 251)|rgb(64, 14, 115)|4px|13px",
+     7
+    ],
+    [
+     "rgba(255, 255, 255, 0.07)|rgb(255, 255, 255)|4px|13px",
+     7
+    ],
+    [
+     "rgb(222, 34, 143)|rgb(255, 255, 255)|4px|13px",
+     2
+    ],
+    [
+     "rgba(0, 0, 0, 0)|rgb(51, 51, 51)|0px|14px",
+     1
+    ]
+   ]
+  }
+ },
+ "celular": [
+  {
+   "pagina": "region",
+   "url": "/destino/europa-4",
+   "alto_px": 12339,
+   "pantallas": 14.6,
+   "scroll_horizontal": false
+  },
+  {
+   "pagina": "pais",
+   "url": "/destino/europa-4/espana-49",
+   "alto_px": 4828,
+   "pantallas": 5.7,
+   "scroll_horizontal": false
+  },
+  {
+   "pagina": "ciudad-vacia",
+   "url": "/destino/europa-4/alemania-38/brandemburgo-915",
+   "alto_px": 2568,
+   "pantallas": 3,
+   "scroll_horizontal": true
+  },
+  {
+   "pagina": "categoria",
+   "url": "/categoria/salidas_grupales-159",
+   "alto_px": 10912,
+   "pantallas": 12.9,
+   "scroll_horizontal": false
+  },
+  {
+   "pagina": "paquete-grupal",
+   "url": "/paquete/2252/eurotrip_tu_primer_viaje_a_europa_-_salida_en_grupos.html",
+   "alto_px": 6444,
+   "pantallas": 7.6,
+   "scroll_horizontal": true
+  },
+  {
+   "pagina": "paquete-playa",
+   "url": "/paquete/146/paquete_combinado_a_rio_de_janeiro__buzios.html",
+   "alto_px": 12811,
+   "pantallas": 15.2,
+   "scroll_horizontal": true
+  },
+  {
+   "pagina": "shop",
+   "url": "/shop.html",
+   "alto_px": 32160,
+   "pantallas": 38.1,
+   "scroll_horizontal": false
+  },
+  {
+   "pagina": "giftcards",
+   "url": "/giftcards",
+   "alto_px": 6603,
+   "pantallas": 7.8,
+   "scroll_horizontal": false
+  },
+  {
+   "pagina": "quienes-somos",
+   "url": "/sobre_nosotros.html",
+   "alto_px": 40632,
+   "pantallas": 48.1,
+   "scroll_horizontal": false
+  },
+  {
+   "pagina": "contacto",
+   "url": "/consulta",
+   "alto_px": 5410,
+   "pantallas": 6.4,
+   "scroll_horizontal": false
+  },
+  {
+   "pagina": "legal",
+   "url": "/condiciones.html",
+   "alto_px": 37385,
+   "pantallas": 44.3,
+   "scroll_horizontal": true
+  },
+  {
+   "pagina": "error-404",
+   "url": "/no-existe-esta-pagina",
+   "alto_px": 2730,
+   "pantallas": 3.2,
+   "scroll_horizontal": false
+  }
+ ],
+ "estados": {
+  "checkout_alto": 5247,
+  "checkout_boton": "\n                    \n                        \n                        Comprar\n                    \n                ",
+  "newsletter_vacio": [],
+  "filtros_sin_resultado": 0
+ }
+}

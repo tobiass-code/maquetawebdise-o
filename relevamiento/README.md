@@ -51,7 +51,7 @@ Relevado el 16/10/2026. Se puede volver a correr (ver «Cómo actualizarlo»).
 - Lista de salidas: fecha ida y vuelta, días, «desde Buenos Aires», precio por pasajero en base doble, cuotas. Avisos: «Mejor tarifa» (628), «Últimos N lugares!» (263), «Último lugar!» (11), «Sugerido» (13).
 - «Ver más info» abre la salida: «Ver Vuelos» (aerolínea, horarios, aeropuertos), «Ver Detalles» (hotel o programa, régimen), selector de pasajeros, «Ver single, doble a compartir, etc.», botones Consultar y Comprar. Los hoteles con ficha abren un modal (nombre, estrellas, destino, dirección, descripción) — `capturas/hotel.jpg`.
 - El selector de pasajeros arranca en 0: si tocás Consultar o Comprar sin cambiarlo, sale un error.
-- «Consultar» abre un formulario (nombre, WhatsApp, email, precio total, cupón, términos) con tres salidas: «Llamar ahora a un asesor», «Chatear por WhatsApp» y enviar. Es el único lugar donde aparece WhatsApp (`capturas/consultar.jpg`).
+- «Consultar» abre un formulario (nombre, WhatsApp, email, precio total, cupón, términos) con tres salidas: «Llamar ahora a un asesor», «Chatear por WhatsApp» y enviar (`capturas/consultar.jpg`). Desde el 27/10 también hay un botón flotante verde de WhatsApp en celular.
 - Debajo: «Paquetes relacionados» de la misma región.
 - La descripción completa (itinerario, incluye, no incluye, información importante) no se muestra en la página; está en el admin como texto libre.
 
@@ -130,6 +130,15 @@ python3 -I scripts/relevar.py datos           # páginas + datos de la API (~3 m
 PW=/ruta/a/playwright node scripts/flujos.js capturas datos/flujos.json    # velocidad, hotel, filtros
 PW=/ruta/a/playwright node scripts/flujos2.js capturas datos/flujos2.json  # buscador, consultar, menú
 ```
+
+## Segunda pasada (27/10)
+
+- `datos/api_todas_las_salidas.json`: las 936 salidas con precios por base, hoteles, vuelos y lugares.
+- `datos/categorias.json`: las 32 categorías del admin; 26 tienen página, 6 dan 404 (las cinco «Salidas Desde» y Cybermonday).
+- `datos/paginas_fijas.json`: contenido de Quiénes somos, Shop, Giftcards, Contacto y legales.
+- `datos/flujos3.json`: estilo actual (tipografías, colores, radios, íconos) y alto de cada plantilla en celular.
+- `capturas/celular-*.jpg`: todas las plantillas en 390 px.
+- Lo que hay que diseñar, con todo esto: [`../DISENO.md`](../DISENO.md).
 
 ## Archivos
 
